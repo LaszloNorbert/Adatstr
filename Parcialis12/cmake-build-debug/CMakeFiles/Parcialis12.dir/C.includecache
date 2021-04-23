@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Egyetem/Prog2/Adatstr/Parcialis12/feladat12.h
+stdlib.h
+-
+time.h
+-
+stdio.h
+-
+stdbool.h
+-
+
+D:/Egyetem/Prog2/Adatstr/Parcialis12/main.c
+feladat12.h
+D:/Egyetem/Prog2/Adatstr/Parcialis12/feladat12.h
+

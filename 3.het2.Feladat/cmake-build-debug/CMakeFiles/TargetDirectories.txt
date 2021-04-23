@@ -1,0 +1,3 @@
+D:/Egyetem/Prog2/Adatstr/3.het2.Feladat/cmake-build-debug/CMakeFiles/3_het2_Feladat.dir
+D:/Egyetem/Prog2/Adatstr/3.het2.Feladat/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Egyetem/Prog2/Adatstr/3.het2.Feladat/cmake-build-debug/CMakeFiles/rebuild_cache.dir

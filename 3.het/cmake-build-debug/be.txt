@@ -1,0 +1,4 @@
+3
+Kozep, ABC, MartonAron, 9.4
+Felso, BCA, Sapientia, MatekInfo, 5.1
+Nelkul, FFF

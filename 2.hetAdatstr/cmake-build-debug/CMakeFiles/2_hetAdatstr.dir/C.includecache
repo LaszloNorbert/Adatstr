@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Egyetem/Prog2/Adatstr/2.hetAdatstr/header2.h
+stdlib.h
+-
+time.h
+-
+stdio.h
+-
+
+D:/Egyetem/Prog2/Adatstr/2.hetAdatstr/main.c
+header2.h
+D:/Egyetem/Prog2/Adatstr/2.hetAdatstr/header2.h
+
+D:/Egyetem/Prog2/Adatstr/2.hetAdatstr/src2.c
+header2.h
+D:/Egyetem/Prog2/Adatstr/2.hetAdatstr/header2.h
+

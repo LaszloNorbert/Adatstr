@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Egyetem/Prog2/Adatstr/6.Het2/queue.c
+queue.h
+D:/Egyetem/Prog2/Adatstr/6.Het2/queue.h
+
+D:/Egyetem/Prog2/Adatstr/6.Het2/queue.h
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+limits.h
+-
+

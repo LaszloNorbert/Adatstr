@@ -1,0 +1,3 @@
+D:/Adatstr/3.het/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Adatstr/3.het/cmake-build-debug/CMakeFiles/Adatstr.dir
+D:/Adatstr/3.het/cmake-build-debug/CMakeFiles/rebuild_cache.dir

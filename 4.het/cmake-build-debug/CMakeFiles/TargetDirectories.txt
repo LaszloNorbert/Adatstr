@@ -1,0 +1,3 @@
+D:/Egyetem/Prog2/Adatstr/4.het/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Egyetem/Prog2/Adatstr/4.het/cmake-build-debug/CMakeFiles/4_het.dir
+D:/Egyetem/Prog2/Adatstr/4.het/cmake-build-debug/CMakeFiles/edit_cache.dir

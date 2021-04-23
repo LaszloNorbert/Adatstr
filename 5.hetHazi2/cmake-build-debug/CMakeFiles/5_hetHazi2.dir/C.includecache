@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Egyetem/Prog2/Adatstr/5.hetHazi2/header.c
+header.h
+D:/Egyetem/Prog2/Adatstr/5.hetHazi2/header.h
+
+D:/Egyetem/Prog2/Adatstr/5.hetHazi2/header.h
+stdio.h
+-
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+string.h
+-
+

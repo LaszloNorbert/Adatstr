@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Egyetem/Prog2/Adatstr/Parcialis5/Feladat5.c
+Feladat5.h
+D:/Egyetem/Prog2/Adatstr/Parcialis5/Feladat5.h
+
+D:/Egyetem/Prog2/Adatstr/Parcialis5/Feladat5.h
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+
